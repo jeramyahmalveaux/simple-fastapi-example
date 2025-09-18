@@ -1,0 +1,52 @@
+{
+  "cats": [
+    {
+      "code": 200,
+      "name": "OK",
+      "message": "Everything is fine, here’s a happy cat!",
+      "image_url": "https://httpcats.com/200.jpg"
+    },
+    {
+      "code": 201,
+      "name": "Created",
+      "message": "A new resource was created successfully.",
+      "image_url": "https://httpcats.com/201.jpg"
+    },
+    {
+      "code": 202,
+      "name": "Accepted",
+      "message": "Your request is being processed.",
+      "image_url": "https://httpcats.com/202.jpg"
+    },
+    {
+      "code": 204,
+      "name": "No Content",
+      "message": "Request succeeded but no content returned.",
+      "image_url": "https://httpcats.com/204.jpg"
+    },
+    {
+      "code": 400,
+      "name": "Bad Request",
+      "message": "You sent something we cannot process.",
+      "image_url": "https://httpcats.com/400.jpg"
+    },
+    {
+      "code": 401,
+      "name": "Unauthorized",
+      "message": "You must be authenticated to access this resource.",
+      "image_url": "https://httpcats.com/401.jpg"
+    },
+    {
+      "code": 404,
+      "name": "Not Found",
+      "message": "Sorry, we could not find the resource.",
+      "image_url": "https://httpcats.com/404.jpg"
+    },
+    {
+      "code": 500,
+      "name": "Internal Server Error",
+      "message": "Something went very wrong on the server.",
+      "image_url": "https://httpcats.com/500.jpg"
+    }
+  ]
+}
